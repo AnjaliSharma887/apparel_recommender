@@ -1,1 +1,1 @@
-# apparel_recommender
+# Apparel Recommender System
